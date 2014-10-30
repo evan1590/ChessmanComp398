@@ -1,0 +1,20 @@
+body {
+	background-color: orange;
+}
+
+#parent {
+	width: 500px;
+}
+
+#Row1 {
+	float: left;
+	width: 100px;
+}
+
+img {
+	border: dashed;
+	border-width: 5px;
+}
+.a {
+	
+}
