@@ -13,8 +13,61 @@ body {
 
 img {
 	border: dashed;
+	margin: 25px;
 	border-width: 5px;
 }
-.a {
+
+#title {
+    font-family: sans-serif;
+    font-size: 100px;
+    position: absolute;
+    text-align: center;
+    color: yellow;
+    margin-top: 80px;
+}
+
+#a {
+	-webkit-transform: rotate(30deg);
 	
 }
+
+#b {
+	-webkit-transform: rotate(60deg)
+}
+
+#c {
+	-webkit-transform: rotate(80deg)
+}
+
+#d {
+	-webkit-transform: rotate(20deg)
+}
+
+#e {
+	-webkit-transform: rotate(60deg)
+}
+
+#f {
+	-webkit-transform: rotate(60deg)
+}
+
+#g {
+	-webkit-transform: rotate(60deg)
+}
+
+#h {
+	-webkit-transform: rotate(60deg)
+}
+
+#i {
+	-webkit-transform: rotate(60deg)
+}
+
+#j {
+	-webkit-transform: rotate(60deg)
+}
+
+#k {
+	-webkit-transform: rotate(60deg)
+}
+
